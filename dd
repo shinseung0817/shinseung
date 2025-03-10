@@ -1,0 +1,10 @@
+discord.py==0.16.12
+  re
+  os
+  pymongo 
+  MongoClient
+  discord.utils
+  datetime
+  금지어
+  asyncio
+  discord.ext.commands
